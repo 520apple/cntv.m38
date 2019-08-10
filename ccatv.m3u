@@ -301,42 +301,7 @@ http://hls-ott-zhibo.wasu.tv/live/268/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/269/index.m3u8
 #EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",华数TV神剧9[1920*1080]
 http://hls-ott-zhibo.wasu.tv/live/202/index.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-03[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-04[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/197952_NHycj.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-05[1920*1080]
-http://alhls-cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-07[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-09[720*520]
-http://alhls-cdn.zhanqi.tv/zqlive/154733_xcVyM.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-11[1024*576]
-http://alhls-cdn.zhanqi.tv/zqlive/34338_PVMT5.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-12[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/210915_Mg4QM.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-13[960*540]
-http://alhls-cdn.zhanqi.tv/zqlive/182325_z3jRr.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-14[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/118948_F0Rim.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-15[960*540]
-http://alhls-cdn.zhanqi.tv/zqlive/93626_h1w6h.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-16[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/219628_O3y9l.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-17[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/53346_ESoth.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-18[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/260346_AvFC9.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-19[1024*768]
-http://alhls-cdn.zhanqi.tv/zqlive/93774_g0UdM.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-20[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/264421_0rVE9.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-21[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/264395_mnbIi.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-22[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/264417_dPUXM.m3u8
-#EXTINF:0 tvg-logo="http://chuantu.xyz/t6/702/1564086821x977013264.png",group-title="轮播",战旗影视-23[1280*720]
-http://alhls-cdn.zhanqi.tv/zqlive/264147_VU1iK.m3u8
+
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东",廣東衛視
 http://v.wangjiuling.com/tv?sv=xV4IrVUowHdgNpwp
