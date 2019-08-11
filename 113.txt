@@ -1,4 +1,5 @@
-﻿CCTV1高清,vjms://113.96.133.24:8500:5023/live/cid=262
+【加纳】-DM
+CCTV1高清,vjms://113.96.133.24:8500:5023/live/cid=262
 鳳凰資訊,vjms://113.96.133.24:8500:5023/live/cid=267
 TVB J2,vjms://113.96.133.24:8500:5023/live/cid=368
 TVB J5,vjms://113.96.133.24:8500:5023/live/cid=363
@@ -411,7 +412,61 @@ Movie Plus,vjms://23.237.32.182:8500:5021/live/cid=497
 
 
 
-
+【天脉】-DM
+CCTV-1综合,tvbus://1Ny5HytSLVmPiEDeMc398oCehgGxjL4i584ZXTjXUfzT8AEvia
+CCTV-2财经,tvbus://1QPEEn121894NFLrVo65P71mD54GhW4HxqhXoJrnFabmjwySQC
+CCTV-3综艺,tvbus://1JNoKZSCJoAtZJXsz13LMb5Xf587LDmNZM4nXKo9hUDK1Mt9cb
+CCTV-4中文国际,tvbus://1XLy9wSDhoL4uMrKqS3JkbgpisPeHs2Q29RWUV7yFdrojhC3nE
+CCTV-5体育,tvbus://12RcYoubqoLEQ6mERdzr46qirPTt9cojHTCimCFqPRDgtt2vDCM
+CCTV-6电影,tvbus://1L6x2mUJaPNq5EUBTCQykdF9o9vvUn8RtLs5usXkypKKRRev9r
+CCTV-7军事与农业,tvbus://12b9fgiMnSvZ7nomEPYEYhmD2mnv6C6dBZ24iG9339oTScLxKXS
+CCTV-8电视剧,tvbus://12btbzBjCSBAdLKwk1PDgsCfm5XcbxiXpTXUHxpLQDw8ck9PMF7
+CCTV-9纪录,tvbus://1yozjbAN2aSC3AFKjBRzF68V5mxQySgvV5QX4n5sUNZN6jmjXm
+CCTV-10科教,tvbus://12AMGpe4Fasu3xGp8bqphoEF8QPbPA69nkK2ZX9hZiHfgTJHnPF
+CCTV-11戏曲,tvbus://1QPEEn121894NFLrVo65P71mD54GhW4HxqhXoJrnFabmjwySQC
+CCTV-12社会与法,tvbus://12grPqw6dKNduN7RPmhyh9v8GzHmFYA8K3zvE1LwnrJTg4YjuzU
+CCTV-13新闻,tvbus://12895XRfBARTpiAS93aYtPBha5LSkpJfXzCHsr4nhsFtBbdHeii
+CCTV-14少儿,tvbus://12dAt5xpZBF9Ja5RfcZA1Roo1eZhxrhNcz4xHasPTEG3Ws15G7y
+CCTV-15音乐,tvbus://1cEmym59B2LFSJLwDWubwWQ9vEX5ZLnmCy2FojFhPUwQ1e5RU4
+湖南卫视,tvbus://19Eg37qAn4Lm1Y7oStyj7sXjRRfkRaJmJY8w1oiNo3EA1k88b2
+江苏卫视,tvbus://1Y3kmDXohc7KncV91wGB2bM7SZjMxY1j37PjWcwqL6ioLjHj23
+浙江卫视,tvbus://1wZKUkbxxbQ9LqQGc3xHo1ajpPLW8vWUvYYLh9h8TJMqxrqR4x
+东方卫视,tvbus://1xRPkpJSu5SunRMKyz6EfemsaH9vsz9PeyupjNnoaZ8DtumTPz
+北京卫视,tvbus://12Wq91EFNMxCAGf9ZQX76ESNWmGAYRJKrfiFTYCgVUJEoRzMRSC
+广东卫视,tvbus://12VmUKnFT999rHCkVUm5fnEAPgVhrMNnhmPR9xgsYftrg4LeGdF
+CHC动作电影,tvbus://12pp9oqynLwkP9CF2r2gQr7zqP61qQPE2EUdDFz8Gzp2aEF3Uzj
+CHC家庭影院,tvbus://1bSygranNbVnXHiXTc3dw8ME1X7ZuxrEfGu5YqXm3zQwJ9MvVz
+CHC高清电影,tvbus://12aivwCn8AbZaUiZhqm4jcGCwDKvoJ8bXRJPYBAsh3bUPXiE7Po
+湖南电影,tvbus://16pZ2LLFwTwQSxHd8yvPjfn4cdPLGiyMauhxuTqgbuS78YDpZ7
+HBO,tvbus://12R4CjSdGK1JgE18SxHYGxJDneTtngDCkisFEpKFvi2DD7mPSgF
+卫视国际电影,tvbus://12ToDQWtqJcq1CJYKpx75JcD4udvSd25H2RF8rthZai7kZt6S44
+翡翠台,tvbus://12DHiDaTG59swDg1uBbrZwD7HYT5ZDrMXNhHjNUdxnLdyvxFLXZ
+明珠台,tvbus://1iqxMZXuqMqVmmsqLmz55JhkgkAPSBf4arbAGXhFMjxTiBZV1R
+TVB功夫台,tvbus://1CaNXuKAKpL7i2xSnJzAJDRaihARdyk3Wk2CFAKzjCnLLtibsM
+凤凰中文,tvbus://123vdzhf8qhK92G8q9FSPVLc5AUVKJ2QHgMUeiiSxVgn6yUkZ9p
+凤凰资讯,tvbus://12f6JVvym9okNr1pd324ehz9Y159zk1My1og513385c6u6SqM5V
+凤凰香港,tvbus://12pxBZuAp4nxMJGjPm3TPQrfXwrE4TEW91bLfje4zB1okZmtRxc
+凤凰电影,tvbus://12nSt6eJo6Rgxh8omLVWVfbHhULVRWa4iaWi8tWKzeVrcb5zaQ8
+香港有线新闻台,tvbus://1KqsDPYJzn64cpYkc8skGRVD423grhBRRgMAm62LTNZdHuaLW2
+香港有线新闻直播,tvbus://12mfTkQqWD968JGyezE3GzyYUmRfpWQDvrV5Lw1Y82Bkbeiu2ch
+香港有线剧集台,tvbus://1M7xvMSj9HE55Q6SnYxcx2tyxF61Cr23RAPP1dZxFVsq84ZTP1
+香港有线体育台,tvbus://17YWevo15cFpGHmovkqsQoQD7JjwdUbVhvx7Daiya2gYyxeeXZ
+香港有线体育2台,tvbus://12KarzFZi92PNGifuJpMRYjfDK8f9KgdvZsqeByp7axhE4W2SRB
+星空卫视,tvbus://1kotjb6s6VN8qydo4hN2boMNUN8CE7mAhL8wMXA3gXg5ydBfmG
+中天综合,tvbus://12sjhaVS7pz9kEUsc5urGJVumEEwVQM5Z6qjoSuGPeuoPAkK1yR
+中天新闻,tvbus://12QCh7fUNbSs7whk2yifmrcgjwTMbpQj346UNxWBkU5rCDMgaav
+东森电影,tvbus://12n4uVQhf39rnGddjt5dA2UtcVr589VusSuJ1RuSemhmQGsqJBo
+东森综合,tvbus://1UR3gJKnxiQHti8AkbGHXrb5QevD7FXTQX78FjofgG6qhwh55E
+东森超视,tvbus://1JpcUmfiYEBfFDCgKx5UVrum4nXKrwGFMuMjemrMer2rXX7Vha
+东森洋片,tvbus://12ZQreCrdbz32Kb5MLh9qyKfMwLi99Sj2ByMUvdLJ7LnquGwWJB
+东森幼幼,tvbus://12LidcWiJPkXS7KejDyCgR3XscMs6rr2HtwE1g1GxWeniMNpgqd
+东森财经新闻,tvbus://128AHziybjSMKkqg41DGwP1JCRCzRsu7yaWxH8FBQHNpz9qgsb8
+非凡新闻,tvbus://12GiP1xEYgQxC4q7T1k4UUXMkibzfn1tKY6u2yKHMK3cLAtL9Go
+华视,tvbus://12gm9TDYuHcSXMi5HzRHzRDtEpEgghVgXiguP9xBkdw9Dc3qF8Z
+民视,tvbus://1Naq6JBv891Yy7Db1iSp1eMDEwEAnCDELMsGM7pAYVQRRSAU9a
+公视,tvbus://12DLoDvjeuvXDrMF6NoJxRGs6JeqfdvhFZ16Pj8jea9ZqLzYL8D
+台视,tvbus://12pdnwzGRTpG8X2uvjaSvhVgHxC9BMM6wN237omfp91DcAyATJ2
+中视,tvbus://1Zw6oJKfWb9h4A1GDb7bWSySW1mYJ2hH4KeDFJxMrnPxXg5Lzc
 
 
 
