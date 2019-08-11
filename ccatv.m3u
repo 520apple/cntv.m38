@@ -842,6 +842,9 @@ http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳门",澳视资讯
 http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 
+
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="不翻能看系列",RHK-31
+http://v.wangjiuling.com/tv?sv=31qNdaaSonuz1hwDNAjn
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
@@ -849,7 +852,7 @@ http://c17.live.aliyuncdn.ottshopping.net/live/1e62e58831904139ad3c6a4cc631b10c.
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yangguangweishi.png",group-title="不翻能看系列",阳光卫视
 http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingkongweishi.png",group-title="不翻能看系列",星空卫视
-rtmp://ivi.bupt.edu.cn:1935/livetv/startv#http://218.202.220.2:5000/nn_live.m3u8?id=STARTV
+http://218.202.220.2:5000/nn_live.m3u8?id=STARTV#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
