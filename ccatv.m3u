@@ -788,8 +788,6 @@ http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD烤箱读书会
 http://live.streamingfast.net/osmflivech44.m3u8
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryhd.png",group-title="F记录探索",求索记录
-http://zb.lxb666.xyz/gzzb.php?id=qsjlhd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="F记录探索",国家地理
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png" group-title="F记录探索",探索亚洲
@@ -866,8 +864,7 @@ http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq#http://218.202.220.2:5000/nn_liv
 http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
 
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="不翻能看系列",东森新闻
-https://play3.dsz77.com/dsxw/index.m3u8
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
 http://202.39.28.229:8117/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
@@ -896,8 +893,6 @@ http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 http://202.39.28.229:8118/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlitaiwantai.png",group-title="不翻能看系列",三立台湾
 http://202.39.28.229:8119/0.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="不翻能看系列",中天新闻
-https://play3.dsz77.com/ztxw/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
 http://122.146.68.116:4007/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianyule.png",group-title="不翻能看系列",中天娱乐
