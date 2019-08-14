@@ -788,6 +788,8 @@ http://live.streamingfast.net/osmflivech40.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png",group-title="GOOD好消息台",GOOD烤箱读书会
 http://live.streamingfast.net/osmflivech44.m3u8
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/natgeohd.png",group-title="F记录探索",国家地理
+http://v.wangjiuling.com/tv?sv=RWK90q4ceoTKXcab4n40
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="F记录探索",国家地理
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png" group-title="F记录探索",探索亚洲
@@ -847,6 +849,8 @@ http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="不翻能看系列",HBO HD
 http://v.wangjiuling.com/tv?sv=XjOtPNcRncJb2poq#http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/imgchannnelv.png",group-title="不翻能看系列",CHANNEL[V]
+http://v.wangjiuling.com/tv?sv=7oOAj7oCqJib6CBWDwm8
 #EXTINF:0 tvg-logo="https://s11.mogucdn.com/mlcdn/fe720b/190311_6h8k0jefh1fjg3lff98ifl4dghb25_240x149.jpg",group-title="不翻能看系列",香港开电视
 http://v.wangjiuling.com/tv?sv=V8YiVNS79FDPMerJ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkc-xw.png",group-title="",有线新闻台
@@ -857,8 +861,6 @@ http://220.158.149.14:9999/live/TV00000000000000000062@HHZT;LIVE
 http://218.202.220.2:5000/nn_live.m3u8?id=STARTV#rtmp://ivi.bupt.edu.cn:1935/livetv/startv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="不翻能看系列",香港卫视HD
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/channelv.png",group-title="不翻能看系列",CHANNEL[V]
-http://220.158.149.14:9999/live/TV00000000000000000065@HHZT;LIVE
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenchaoshi.png",group-title="不翻能看系列",东森超视
 http://202.39.28.229:8117/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
@@ -1019,20 +1021,21 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰卫视HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰卫视HD
+http://v.wangjiuling.com/tv?sv=9OdwRPPuvJCywCKQ6P63
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰资讯HD
+http://v.wangjiuling.com/tv?sv=dW3nowEFyXFWzsd0383W
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影HD
+http://v.wangjiuling.com/tv?sv=M0BjQDPc8MI9oflEn2nz
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰卫视HD（测试）
 http://124.232.231.247:6610/000000001001/201500000230/index.m3u8?
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰资讯HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰资讯HD（测试）
 http://124.232.231.247:6610/000000001001/201500000231/index.m3u8?
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰卫视HD
-http://live.centerch.com/fhzw.m3u8#http://v.wangjiuling.com/tv?sv=vgymPrBtv9COQfWQqOXx
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰资讯
-http://live.centerch.com/fhzx.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰资讯(移动）
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangxianggang.png",group-title="凤凰卫视",凤凰香港HD
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影
-http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA#rtmp://58.200.131.2:1935/livetv/fhdy
+
 
 
 
