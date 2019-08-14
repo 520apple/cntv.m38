@@ -790,6 +790,8 @@ http://live.streamingfast.net/osmflivech44.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/natgeohd.png",group-title="F记录探索",国家地理
 http://v.wangjiuling.com/tv?sv=RWK90q4ceoTKXcab4n40
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discoveryhd.png",group-title="F记录探索",Discovery
+http://aning.me/qwt.php?id=125
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="F记录探索",国家地理
 http://61.216.10.122:4020/VideoInput/play.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tansuo.png" group-title="F记录探索",探索亚洲
