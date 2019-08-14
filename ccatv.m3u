@@ -877,10 +877,8 @@ http://aning.me/qwt.php?id=87#http://v.wangjiuling.com/tv?sv=ewmFR0hNrHR4oW3Q
 http://aning.me/qwt.php?id=83#http://202.39.28.229:8117/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsenzonghe.png",group-title="不翻能看系列",东森综合
 http://aning.me/qwt.php?id=88#http://202.39.28.229:8116/0.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="不翻能看系列",民视HD
-http://aning.me/qwt.php?id=114#http://v.wangjiuling.com/tv?sv=YE9baW8iqMiOAfl67pqq
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="不翻能看系列",中视HD
-http://aning.me/qwt.php?id=110#http://202.39.28.229:8113/0.ts#https://play3.dsz77.com/zsxw/index.m3u8
+http://aning.me/qwt.php?id=110
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="不翻能看系列",民视HD
 http://aning.me/qwt.php?id=114#http://202.39.28.229:8114/0.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gongshi.png",group-title="不翻能看系列",公视HD
