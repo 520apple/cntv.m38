@@ -829,7 +829,7 @@ http://v.wangjiuling.com/tv?sv=2vXUMwuqdU0YP1AA
 http://v.wangjiuling.com/tv?sv=zx8sqLi7AFVNyqee
 #EXTINF:0 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/314_300.png" group-title="TVB香港无线",TVB星河
 http://pull-l3-xg.ixigua.com/live/ch0002.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="",ViuTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="TVB香港无线",ViuTV
 http://v.wangjiuling.com/tv?sv=eoAcR0hNrHR4oa9a
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="",ViuTVsix
 http://v.wangjiuling.com/tv?sv=xyrqbX7trVUowHdwnQnm
