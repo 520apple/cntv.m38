@@ -1020,10 +1020,9 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="新加坡",Ch 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
-
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰卫视HD
-http://v.wangjiuling.com/tv?sv=9OdwRPPuvJCywCKQ6P63
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzhongwen.png",group-title="凤凰卫视",凤凰资讯HD
+http://v.wangjiuling.com/tv?sv=9OdwRPPuvJCywCKQ6P63
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="凤凰卫视",凤凰卫视HD
 http://v.wangjiuling.com/tv?sv=dW3nowEFyXFWzsd0383W
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangdianying.png",group-title="凤凰卫视",凤凰电影HD
 http://v.wangjiuling.com/tv?sv=M0BjQDPc8MI9oflEn2nz
